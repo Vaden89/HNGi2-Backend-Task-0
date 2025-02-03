@@ -27,7 +27,8 @@ Response: {
 "message": "Success",
 "data": {
 "email": "isaacshosanya89@gmail.com",
-"current_datetime": "2025-02-02T23:48:34.422Z"
+"current_datetime": "2025-02-03T00:21:57.335Z",
+"github_url": "https://github.com/Vaden89/HNGi2-Backend-Task-0.git"
 }
 }
 
